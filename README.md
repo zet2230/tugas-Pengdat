@@ -1,7 +1,10 @@
 # tugas mata kuliah Pengolahan Data 2023
 
 full code in TugasPengDat.ipynb\
-datasets in file dataset or https://www.kaggle.com/datasets/claytonmiller/cubems-smart-building-energy-and-iaq-data?select=2019Floor7.csv 
+datasets in https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant
 
 laporan:
 https://docs.google.com/document/d/1YVNyowV60ZrnWQqHh0piLTLcjJLcbVLRlMNNEO41oOY/edit
+
+paper:
+https://doi.org/10.1016/j.ijepes.2014.02.027
